@@ -18,7 +18,11 @@ license: creativeml-openrail-m
 
 ## 🔮Entered URL of Microsoft Learn :
 
+.
+
 ![alt text](assets/wds.png)
+
+.
 
 ## 🎴The Scraped Result in the Space : 
 
